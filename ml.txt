@@ -1,0 +1,37 @@
+- Théorème de Bayes
+- Les moindres carrés
+- Chaine de markov
+- Perceptron
+- Voisins
+- Backpropagation
+- Recurrent neural network (RNN pour le texte) // CNN (pour la vision par ordinateur)
+
+ SDK azure build app :https://learn.microsoft.com/fr-fr/training/modules/ai-foundry-sdk/01-introduction
+
+Feature = données d'entrée 
+Label = données qu'il doit prédire 
+
+
+
+Librairies :
+Matplotlib visualiser les données
+Pandas pour les manipulations de tableaurs excels csv
+Numpy pour manipuler pour faire directement des données tabulaires
+
+REGRESSION git a
+Les différentes régression :
+- Linéaire f(x) = ax + b
+- Polynomiale a + bx + cx^2 (extension de la linéaire)
+--------------------- parfait pour prédire une valeur numérique (un prix
+- Logistique
+------ pour des valeurs catégorielle (temps, la couleur)
+
+CLASSIFICATION
+
+
+CLUSTERING
+
+REDUCTION DIMENSIONNALITE
+
+
+Apprentissage supervisée 
