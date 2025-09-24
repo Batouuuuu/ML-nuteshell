@@ -1,1 +1,1 @@
-Ce dépot sert d'entrainement / recap sur tous les différents algorithmes de Machine Learning ainsi que leur utilisation
+Depot de révision et d'entrainement sur les différents algorithmes de machine learning
