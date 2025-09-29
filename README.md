@@ -1,1 +1,1 @@
-Depot de révision et d'entrainement sur les différents algorithmes de machine learning
+Depot de révision et d'entrainement sur les différents algorithmes de machine learning, il y'a aussi de la visualisation de données de dataset.
